@@ -13,12 +13,12 @@ Use the connect button to create two peers, and attempt to create a connection b
 
 Results on iOS using locally patched version of simple-peer:
 
-![alt text](images/ios-patched-result.png)
+<img src="images/ios-patched-result.png" width="375">
 
 Results on iOS using regular simple-peer:
 
-![alt text](images/ios-result.png)
+<img src="images/ios-result.png" width="375">
 
 Results on Android, using either version of simple-peer:
 
-![alt text](images/android-result.png)
+<img src="images/android-result.png" width="375">
