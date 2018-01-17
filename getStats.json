@@ -1,0 +1,490 @@
+[
+  {
+    "id": "googLibjingleSession_5971843678021202637",
+    "type": "googLibjingleSession",
+    "timestamp": 1516162173093.028,
+    "values": [
+      {
+        "googInitiator": "false"
+      }
+    ]
+  },
+  {
+    "id": "googCertificate_7B:3F:03:B4:C6:47:2D:93:47:54:78:2D:60:F7:72:70:E5:96:18:F4:37:95:C3:F2:64:A2:5F:17:C1:C5:54:70",
+    "type": "googCertificate",
+    "timestamp": 1516162173093.028,
+    "values": [
+      {
+        "googFingerprint": "7B:3F:03:B4:C6:47:2D:93:47:54:78:2D:60:F7:72:70:E5:96:18:F4:37:95:C3:F2:64:A2:5F:17:C1:C5:54:70"
+      },
+      {
+        "googDerBase64": "MIIBFzCBvaADAgECAgkAprbeI1hWnc8wCgYIKoZIzj0EAwIwETEPMA0GA1UEAwwGV2ViUlRDMB4XDTE4MDExNjA0MDkwMFoXDTE4MDIxNjA0MDkwMFowETEPMA0GA1UEAwwGV2ViUlRDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9smAnmcdfKlA5ZzyVhQkFKzJ/QlUKFWIo5/01RmDDFv0KSfEM5APpD98g/QJJQCVSlkgYk/v2NBcs89t0Av5rDAKBggqhkjOPQQDAgNJADBGAiEAmR9WD0sijoCWwU0uEXS3CQZ5vTVY/7uancOd2i45umsCIQDT45CHBvv1HIOaJkS2r7TJKqoYMF4ojhLtENqqIcXgig=="
+      },
+      {
+        "googFingerprintAlgorithm": "sha-256"
+      }
+    ]
+  },
+  {
+    "id": "googCertificate_33:12:85:A1:BA:A8:54:56:73:29:82:BE:5E:3C:E2:51:3F:22:FB:55:3C:CC:31:19:8F:76:D2:0D:69:74:67:FD",
+    "type": "googCertificate",
+    "timestamp": 1516162173093.028,
+    "values": [
+      {
+        "googFingerprint": "33:12:85:A1:BA:A8:54:56:73:29:82:BE:5E:3C:E2:51:3F:22:FB:55:3C:CC:31:19:8F:76:D2:0D:69:74:67:FD"
+      },
+      {
+        "googDerBase64": "MIIBFjCBvaADAgECAgkA4YFmG9TU3cYwCgYIKoZIzj0EAwIwETEPMA0GA1UEAwwGV2ViUlRDMB4XDTE4MDExNjA0MDkwMFoXDTE4MDIxNjA0MDkwMFowETEPMA0GA1UEAwwGV2ViUlRDMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqmnU8ZAdfJh7+3sGmymnJn6tS2qJc4am7AYDSTJSn28W3BQJjvwpQ84RNKIGzI0JT13F47rbQjbjpi2lQBn4hzAKBggqhkjOPQQDAgNIADBFAiEA01U7FGhhv7ORWpuhoNwJbjd+gP2Wd5TIJANph0A7fm4CIBSTn7jjKjOrw8ttb3Br7VBo6z2+1uVq1Fhf+U68o6+A"
+      },
+      {
+        "googFingerprintAlgorithm": "sha-256"
+      }
+    ]
+  },
+  {
+    "id": "Channel-audio-1",
+    "type": "googComponent",
+    "timestamp": 1516162173093.028,
+    "values": [
+      {
+        "selectedCandidatePairId": "Conn-audio-1-0"
+      },
+      {
+        "remoteCertificateId": "googCertificate_33:12:85:A1:BA:A8:54:56:73:29:82:BE:5E:3C:E2:51:3F:22:FB:55:3C:CC:31:19:8F:76:D2:0D:69:74:67:FD"
+      },
+      {
+        "srtpCipher": "AES_CM_128_HMAC_SHA1_80"
+      },
+      {
+        "dtlsCipher": "TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256"
+      },
+      {
+        "googComponent": "1"
+      },
+      {
+        "localCertificateId": "googCertificate_7B:3F:03:B4:C6:47:2D:93:47:54:78:2D:60:F7:72:70:E5:96:18:F4:37:95:C3:F2:64:A2:5F:17:C1:C5:54:70"
+      }
+    ]
+  },
+  {
+    "id": "Conn-audio-1-0",
+    "type": "googCandidatePair",
+    "timestamp": 1516162173093.028,
+    "values": [
+      {
+        "googActiveConnection": "true"
+      },
+      {
+        "packetsDiscardedOnSend": "0"
+      },
+      {
+        "googRtt": "0"
+      },
+      {
+        "responsesSent": "34"
+      },
+      {
+        "googWritable": "true"
+      },
+      {
+        "googRemoteCandidateType": "local"
+      },
+      {
+        "googChannelId": "Channel-audio-1"
+      },
+      {
+        "requestsReceived": "34"
+      },
+      {
+        "googTransportType": "udp"
+      },
+      {
+        "requestsSent": "34"
+      },
+      {
+        "localCandidateId": "Cand-z39tXE+4"
+      },
+      {
+        "packetsSent": "7"
+      },
+      {
+        "remoteCandidateId": "Cand-EgEHPlk5"
+      },
+      {
+        "googReadable": "true"
+      },
+      {
+        "bytesSent": "1434"
+      },
+      {
+        "googLocalCandidateType": "local"
+      },
+      {
+        "consentRequestsSent": "1"
+      },
+      {
+        "googRemoteAddress": "10.0.0.0:10000"
+      },
+      {
+        "googLocalAddress": "10.0.0.0:10000"
+      },
+      {
+        "bytesReceived": "1828"
+      },
+      {
+        "responsesReceived": "34"
+      }
+    ]
+  },
+  {
+    "id": "Cand-z39tXE+4",
+    "type": "localcandidate",
+    "timestamp": 1516162140744.636,
+    "values": [
+      {
+        "ipAddress": "10.0.0.0"
+      },
+      {
+        "candidateType": "host"
+      },
+      {
+        "networkType": "wlan"
+      },
+      {
+        "priority": "2122260223"
+      },
+      {
+        "portNumber": "56401"
+      },
+      {
+        "transport": "udp"
+      }
+    ]
+  },
+  {
+    "id": "Cand-EgEHPlk5",
+    "type": "remotecandidate",
+    "timestamp": 1516162140744.636,
+    "values": [
+      {
+        "ipAddress": "10.0.0.0"
+      },
+      {
+        "candidateType": "host"
+      },
+      {
+        "priority": "2122260223"
+      },
+      {
+        "portNumber": "52848"
+      },
+      {
+        "transport": "udp"
+      }
+    ]
+  },
+  {
+    "id": "Conn-audio-1-1",
+    "type": "googCandidatePair",
+    "timestamp": 1516162173093.028,
+    "values": [
+      {
+        "googActiveConnection": "false"
+      },
+      {
+        "packetsDiscardedOnSend": "0"
+      },
+      {
+        "googRtt": "1"
+      },
+      {
+        "responsesSent": "0"
+      },
+      {
+        "googWritable": "true"
+      },
+      {
+        "googRemoteCandidateType": "local"
+      },
+      {
+        "googChannelId": "Channel-audio-1"
+      },
+      {
+        "requestsReceived": "0"
+      },
+      {
+        "googTransportType": "udp"
+      },
+      {
+        "requestsSent": "2"
+      },
+      {
+        "localCandidateId": "Cand-q0NM4bpw"
+      },
+      {
+        "packetsSent": "0"
+      },
+      {
+        "remoteCandidateId": "Cand-EgEHPlk5"
+      },
+      {
+        "googReadable": "false"
+      },
+      {
+        "bytesSent": "0"
+      },
+      {
+        "googLocalCandidateType": "local"
+      },
+      {
+        "consentRequestsSent": "1"
+      },
+      {
+        "googRemoteAddress": "10.0.0.0:10000"
+      },
+      {
+        "googLocalAddress": "10.0.0.0:10000"
+      },
+      {
+        "bytesReceived": "0"
+      },
+      {
+        "responsesReceived": "2"
+      }
+    ]
+  },
+  {
+    "id": "Cand-q0NM4bpw",
+    "type": "localcandidate",
+    "timestamp": 1516162140744.636,
+    "values": [
+      {
+        "ipAddress": "10.0.0.0:10000"
+      },
+      {
+        "candidateType": "host"
+      },
+      {
+        "networkType": "wlan"
+      },
+      {
+        "priority": "2122194687"
+      },
+      {
+        "portNumber": "56917"
+      },
+      {
+        "transport": "udp"
+      }
+    ]
+  },
+  {
+    "id": "Conn-audio-1-2",
+    "type": "googCandidatePair",
+    "timestamp": 1516162173093.028,
+    "values": [
+      {
+        "googActiveConnection": "false"
+      },
+      {
+        "packetsDiscardedOnSend": "0"
+      },
+      {
+        "googRtt": "3000"
+      },
+      {
+        "responsesSent": "2"
+      },
+      {
+        "googWritable": "false"
+      },
+      {
+        "googRemoteCandidateType": "local"
+      },
+      {
+        "googChannelId": "Channel-audio-1"
+      },
+      {
+        "requestsReceived": "2"
+      },
+      {
+        "googTransportType": "udp"
+      },
+      {
+        "requestsSent": "0"
+      },
+      {
+        "localCandidateId": "Cand-z39tXE+4"
+      },
+      {
+        "packetsSent": "0"
+      },
+      {
+        "remoteCandidateId": "Cand-kw+vryc0"
+      },
+      {
+        "googReadable": "false"
+      },
+      {
+        "bytesSent": "0"
+      },
+      {
+        "googLocalCandidateType": "local"
+      },
+      {
+        "consentRequestsSent": "0"
+      },
+      {
+        "googRemoteAddress": "10.0.0.0:10000"
+      },
+      {
+        "googLocalAddress": "10.0.0.0:10000"
+      },
+      {
+        "bytesReceived": "0"
+      },
+      {
+        "responsesReceived": "0"
+      }
+    ]
+  },
+  {
+    "id": "Cand-kw+vryc0",
+    "type": "remotecandidate",
+    "timestamp": 1516162140744.636,
+    "values": [
+      {
+        "ipAddress": "10.0.0.0:10000"
+      },
+      {
+        "candidateType": "host"
+      },
+      {
+        "priority": "2122194687"
+      },
+      {
+        "portNumber": "57400"
+      },
+      {
+        "transport": "udp"
+      }
+    ]
+  },
+  {
+    "id": "Conn-audio-1-3",
+    "type": "googCandidatePair",
+    "timestamp": 1516162150642.885,
+    "values": [
+      {
+        "googActiveConnection": "false"
+      },
+      {
+        "packetsDiscardedOnSend": "0"
+      },
+      {
+        "googRtt": "3000"
+      },
+      {
+        "responsesSent": "0"
+      },
+      {
+        "googWritable": "false"
+      },
+      {
+        "googRemoteCandidateType": "local"
+      },
+      {
+        "googChannelId": "Channel-audio-1"
+      },
+      {
+        "requestsReceived": "0"
+      },
+      {
+        "googTransportType": "udp"
+      },
+      {
+        "requestsSent": "0"
+      },
+      {
+        "localCandidateId": "Cand-q0NM4bpw"
+      },
+      {
+        "packetsSent": "0"
+      },
+      {
+        "remoteCandidateId": "Cand-kw+vryc0"
+      },
+      {
+        "googReadable": "false"
+      },
+      {
+        "bytesSent": "0"
+      },
+      {
+        "googLocalCandidateType": "local"
+      },
+      {
+        "consentRequestsSent": "0"
+      },
+      {
+        "googRemoteAddress": "10.0.0.0:10000"
+      },
+      {
+        "googLocalAddress": "10.0.0.0:10000"
+      },
+      {
+        "bytesReceived": "0"
+      },
+      {
+        "responsesReceived": "0"
+      }
+    ]
+  },
+  {
+    "id": "bweforvideo",
+    "type": "VideoBwe",
+    "timestamp": 1516162173093.028,
+    "values": [
+      {
+        "googBucketDelay": "0"
+      },
+      {
+        "googAvailableSendBandwidth": "300000"
+      },
+      {
+        "googTransmitBitrate": "0"
+      },
+      {
+        "googActualEncBitrate": "0"
+      },
+      {
+        "googAvailableReceiveBandwidth": "0"
+      },
+      {
+        "googTargetEncBitrate": "0"
+      },
+      {
+        "googRetransmitBitrate": "0"
+      }
+    ]
+  },
+  {
+    "id": "datachannel_0",
+    "type": "datachannel",
+    "timestamp": 1516162173093.028,
+    "values": [
+      {
+        "label": "aea672e3c4c26833c924e0699349a4a169586cfd"
+      },
+      {
+        "state": "open"
+      },
+      {
+        "protocol": ""
+      },
+      {
+        "datachannelid": "0"
+      }
+    ]
+  }
+]

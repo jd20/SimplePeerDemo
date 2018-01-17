@@ -25,5 +25,5 @@ if (typeof localStorage !== 'undefined') {
 if (require('./package.json').dependencies['react-native-crypto']) {
   // Placing the module name in a variable prevents 'crypto' from being
   // pre-loaded (which could cause an error, since it may not exist)
-  // const crypto = require('crypto')
+  const crypto = require('crypto')
 }
